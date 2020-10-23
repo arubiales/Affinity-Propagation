@@ -2,6 +2,6 @@
 
 Here we are going to:
 
-1. Explain the Gaussian Mixture Model (GMM).
-2. Train a GMM with sklearn to create clusters.
-3. Explain GMM hyperparameters.
+1. Explain the Affinity Propagation Model (GMM).
+2. Train a Affinity Propagation with sklearn to create clusters.
+3. Explain Affinity Propagation hyperparameters.
